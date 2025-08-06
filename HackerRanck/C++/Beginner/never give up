@@ -1,0 +1,7 @@
+// Never give up 
+#include <iostream> 
+using namespace std ; 
+int main (){
+  printf("Never Give up");
+return 0 ;
+}; 
