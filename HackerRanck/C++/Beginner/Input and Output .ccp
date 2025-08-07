@@ -26,7 +26,9 @@ int main()
 int b;
 int c ; 
 
- cin>>a>>b>>c;
+ cin>>a;
+cin>>b;
+cin>>c;
  
    int sum = a+b+c ; 
   
@@ -40,6 +42,7 @@ string  name  ="joseph solomon";
 
 
 }
+
 
 
 
