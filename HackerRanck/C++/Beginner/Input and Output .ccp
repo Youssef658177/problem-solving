@@ -1,10 +1,10 @@
-#include <iostream>
-using namespace std;
 
 // Input and Output
 
 
 //https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
+#include <iostream>
+using namespace std;
 
 
 
@@ -39,6 +39,7 @@ cin>>c;
 
 
 }
+
 
 
 
