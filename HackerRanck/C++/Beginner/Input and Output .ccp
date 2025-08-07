@@ -22,16 +22,10 @@ int main()
 
 {
    
+ int a,b,c;
+ cin>>a>>b>>c;
  
-   int s, v,r; 
- 
-   s =1 ; 
-
-    v= 2 ; 
-
-    r =7 ; 
- 
-   int sum = s +v+r ; 
+   int sum = a+b+c ; 
   
   std::cout << sum << std::endl;
 
@@ -39,5 +33,6 @@ int main()
   
  
  return 0;
+
 
 }
