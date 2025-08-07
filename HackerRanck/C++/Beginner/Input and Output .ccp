@@ -16,19 +16,23 @@
 #include <vector>
 
 #include <iostream>
-
+using namespace std;
 
 int main()
 
 {
    
- int a,b,c;
+ int a;
+int b;
+int c ; 
+
  cin>>a>>b>>c;
  
    int sum = a+b+c ; 
   
   std::cout << sum << std::endl;
 
+string  name  ="joseph solomon";
 
   
  
@@ -36,3 +40,4 @@ int main()
 
 
 }
+
