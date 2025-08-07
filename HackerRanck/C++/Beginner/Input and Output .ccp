@@ -32,7 +32,6 @@ cin>>c;
   
  std:: cout << sum << std::endl;
 
-string  name  ="joseph solomon";
 
   
  
@@ -40,6 +39,7 @@ string  name  ="joseph solomon";
 
 
 }
+
 
 
 
