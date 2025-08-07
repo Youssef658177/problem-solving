@@ -4,7 +4,8 @@
 
 //https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
 
-
+#include <iostream>
+using namespace std;
 
 #include <cmath> 
 
@@ -12,8 +13,7 @@
 
 #include <vector>
 
-#include <iostream>
-using namespace std;
+
 
 int main()
 
@@ -39,6 +39,7 @@ string  name  ="joseph solomon";
 
 
 }
+
 
 
 
