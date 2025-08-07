@@ -1,10 +1,9 @@
-
 // Input and Output
 
 
 //https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
 #include <iostream>
-using namespace std;
+
 
 
 
@@ -24,9 +23,9 @@ int main()
 int b;
 int c ; 
 
- cin>>a;
-cin>>b;
-cin>>c;
+ std ::cin>>a;
+std ::cin>>b;
+std ::cin>>c;
  
    int sum = a+b+c ; 
   
@@ -39,15 +38,3 @@ cin>>c;
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
