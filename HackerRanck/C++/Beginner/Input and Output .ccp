@@ -16,7 +16,7 @@
 #include <vector>
 
 #include <iostream>
-using namespace std ;
+
 
 int main()
 
@@ -30,7 +30,7 @@ int c ;
  
    int sum = a+b+c ; 
   
-  cout << sum << std::endl;
+ std:: cout << sum << std::endl;
 
 string  name  ="joseph solomon";
 
@@ -40,5 +40,6 @@ string  name  ="joseph solomon";
 
 
 }
+
 
 
