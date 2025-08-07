@@ -1,6 +1,3 @@
-﻿//Objective
-//In this challenge, we practice reading input from stdin and printing output to stdout./
-
 
 // Input and Output
 
@@ -42,6 +39,7 @@ string  name  ="joseph solomon";
 
 
 }
+
 
 
 
