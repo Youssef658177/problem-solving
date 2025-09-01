@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
-using namespace std ;
+
 
 int main()
 
@@ -27,6 +27,7 @@ int main()
                    else  {
   std::cout << "odd" << std::endl;
  }
+
 
 
 
