@@ -1,4 +1,4 @@
-// Input and Output
+
 
 
 #include <iostream>
@@ -37,4 +37,5 @@ std ::cin>>c;
 
 
 }
+
 
