@@ -1,10 +1,4 @@
-
-
-
 #include <iostream>
-
-
-
 
 #include <cmath> 
 
@@ -37,5 +31,6 @@ std ::cin>>c;
 
 
 }
+
 
 
