@@ -9,7 +9,7 @@ int main()
 
     std::cin >> a>>b;
  
-   string words  [] = { "","one", "two", "three", "four",
+ std::  string words  [] = { "","one", "two", "three", "four",
  "five", "six", "seven", "nine"} ; 
     
                for (int i=a ; i <= b ; i++)
@@ -34,3 +34,4 @@ int main()
 }
     return 0;
 }
+
